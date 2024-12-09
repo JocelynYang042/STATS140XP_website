@@ -14,3 +14,4 @@ format:
   html:
     theme: lumen
     css: styles.css
+    output-dir: docs
