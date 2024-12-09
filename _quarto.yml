@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "Jocelyn Yang"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+    right:
+      - icon: github
+        href: https://github.com/JocelynYang042
+format:
+  html:
+    theme: lumen
+    css: styles.css

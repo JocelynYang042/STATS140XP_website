@@ -1,0 +1,35 @@
+---
+title: "Jocelyn Yang's Personal Website"
+format: html
+editor: visual
+---
+
+Hello! I'm Jocelyn Yang, and this is my personal website.
+
+## About Me
+
+I'm a senior Statistics and Data Science & Cognitive Science double major at UCLA. I'm passionate about healthcare data analysis and genetic database learning. In my free time, I love painting and watching anime.
+
+## Contact Me
+
+Email: jialeyang042\@g.ucla.edu
+
+## 
+
+## This is me
+
+![Me in my hometown Wuhan](WechatIMG1392.jpg){width="300"}
+
+## Projects
+
+### Project 1: PathFX Analysis of Neurodegenerative Diseases
+
+Neurodegenerative diseases like Alzheimer's and Parkinson's are difficult to treat due to their complex pathology and the absence of curative treatments. This project aims to identify potential combination therapies for neurodegenerative diseases by studying gene-level interactions.
+
+Link to Poster: <https://qcb.ucla.edu/wp-content/uploads/sites/14/2024/08/Yang_BIG_updated.pdf>
+
+### Project 2: Comparison of Mediation Testing Models in Two-Condition Pretest-Posttest Design
+
+Two-condition pre-posttest designs are commonly used in clinical psychology studies to assess treatment effects across different time points. Mediation analysis is crucial in these designs for testing the intermediary role of a third variable in the causal relationship between treatment conditions and outcomes. Despite their importance, comprehensive comparisons among mediation models are limited. This study addresses this gap by evaluating the effectiveness of five mediation models.
+
+Link to Presentation: [https://www.youtube.com/watch?v=sWXMBj8JiU8https://www.youtube.com/watch?v=sWXMBj8JiU8](https://www.youtube.com/watch?v=sWXMBj8JiU8)
