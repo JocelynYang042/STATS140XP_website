@@ -1,0 +1,21 @@
+---
+title: "Jocelyn Yang's Personal Website"
+format: html
+editor: visual
+---
+
+Hello! I'm Jocelyn Yang, and this is my personal website.
+
+## About Me
+
+I'm a senior Statistics and Data Science & Cognitive Science double major at UCLA. I'm passionate about healthcare data analysis and genetic database learning. In my free time, I love painting and watching anime.
+
+## Contact Me
+
+Email: jialeyang042\@g.ucla.edu
+
+## 
+
+## This is me
+
+![Me in my hometown Wuhan](WechatIMG1392.jpg){width="300"}
